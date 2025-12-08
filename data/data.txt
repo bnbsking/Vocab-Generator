@@ -331,7 +331,7 @@ Be terrorized = be panic about
 熱情
 	熱情於(事)(v) Be really Into = Be a (big fan)/aficionado of = eager to = enthusiastic about = keen (on/to)
 	熱情於(人)(v) be passionate about (adj) = be enthusiastic about
-	狂熱的(支持者)(adj) ardent = fervent = zealous (adj) supporter / believer
+	狂熱的(支持者)(adj) ardent = avid = fervent = zealous (adj) supporter / believer
 	腦粉(n) mania (n) = fanatic (n)
 	熱情(n) eagerness (n) = enthusiasm (n) = zeal (n) = zest (n)
 adore (v) = admire (v) < venerate (v) 敬重 << idolize (v) << worship (v) = believe (religion)
@@ -416,6 +416,9 @@ audacious (adj) bold
 auspicious <-> ominous
 
 autograph (n)(v) signature for a famous person
+
+automatic (n) 自排車 <-> manual (n) 自排車 
+changing gears (n) 換檔
 
 avocado (n) 酪梨
 
@@ -520,9 +523,13 @@ bacon (n) 培根
 bagel (n) 貝果
 beacon (n) 燈塔; 指引光明的人或物
 
+be better off + Ving
+
 bear (v) 忍耐; 承受 (n) 熊; 看空者
 gear (n) 齒輪
 bearing (n) 軸承
+
+beard (n), moustache (n)
 
 beat around the bush (v) 拐彎抹角
 give sb the runaround (v) 敷衍
@@ -604,7 +611,8 @@ swamp (n) = mire (n) 沼澤; 泥沼
 (v) bloom = burgeon = develop fast = grow fast = flourish = prosper = thrive
 (adj) blooming = flourishing = prosperous = thriving
 
-beforehand (adv) = in advance (adv) = previously (adv) <-> afterwards (adv) = later = then = subsequently = next
+beforehand (adv) = in advance (adv) = previously (adv)
+<-> afterwards (adv) = then = subsequently = next = in the following step = moving on ...
 preceding (adj) = prior (adj) e.g. require prior knowledge of
 previous (adj) <-> next (adj) = subsequent (adj) = following (adj)
 
@@ -995,7 +1003,7 @@ be convicted of (v) has crime of
 <-> be acquitted of (v) has not crime of
 verdict (n)
 
-cope with = deal with (v) = address (v) = tackle (v)
+cope with = deal with (v) = address (v) = handle (v) = tackle (v)
 
 cork 軟木塞
 
@@ -1147,6 +1155,8 @@ dispute (v)(n) quarrel usaully for salary or two countries
 disagree with (v) = disapprove (v) = oppose (v)
 retort (v) 反駁 < refute (v) 駁斥
 
+decelerate (v) <-> accelerate (v)
+
 decide (v) = determine 
 [pro de-sai-sive] decisive (adj) make decision quickly and confidently <-> indecisive
 determinate (adj) fixed and definite e.g. a contract with determinate period
@@ -1189,7 +1199,7 @@ meagre (adj) = limited = inadequate = scant
 a shred of = a little bit of = a tinge of
 scarcely (adv) = hardly = barely
 
-deficit (n) spent > received
+deficit (n) = overdraft (n) spent > received
 deposit (n) money saved in bank; first part pay for buying sth; pay when rent sth and return finally
 rent (v)(n) can be money or rent sth as well
 
@@ -1405,6 +1415,11 @@ drag (v)
 6 a film or performance goes slowly and boring
 
 dramatic (adj)
+
+drive (n) 車道
+court (n) 死巷, 圓環死巷
+place (n) 比street更小的巷子
+alley 是非正式地址名稱, 如兩房間窄巷
 
 drowse (v) = fell into a drowse (v) sleep shortly
 
@@ -1796,6 +1811,7 @@ glide = slide (v)
 
 gloss (n) 光澤
 glow (v) 發光 e.g. The gloss glows, gleams, and glitters, but it does not glimmer.
+give off (v) 發(光/聲音/氣味)
 
 gospel (n) 福音
 
@@ -1970,8 +1986,6 @@ plight (n)
 
 in goblin mode (adj)
 
-in the meantime
-
 inauguration (n) 啟用典禮; 就職典麗
 
 incipient (adj) emerging / early-stageds
@@ -2132,6 +2146,8 @@ liable (adj) = responsible (adj)
 limb (n) 肢
 anatomy (n) 解剖
 
+liter (n) L
+
 locomotive (n) 火車頭
 
 lodge (v) = stay (v)
@@ -2269,7 +2285,18 @@ misconceive (v) = misunderstand (v) 誤會
 misunderstanding (n) 誤會
 misguide (v) 誤導
 
+mobile network (n) 行動數據 3G/4G網路
+mobile operator (n) 行動數據 業者
+ISP = internet service provider (n) 網路業者
+
 monetary policy tightening <-> quantitative easing (QE)
+
+mortgage (n) 房貸; 抵押貸款
+collateral (n) 抵押品
+credit (n) 信貸
+microcredit (n) 小額信貸
+installment plan (n) 分期付款
+e.g. access to credit 申請過信貸
 
 muster the courage (v) 鼓起勇氣
 
@@ -2443,6 +2470,8 @@ parade (n)(v) = march (n)(v) 遊行
 parasite (n) 寄生
 parasitize (v)
 
+part (n) = component (n) 部分; 零件
+
 passtime (n) = pursuit (n) = hobby (n) = recreation (n)
 
 patcher (n) mixture of different things
@@ -2527,7 +2556,7 @@ appeal (v) 上訴; 訴願(要求法院判決)
 file a lawsuit against (v) 提出訴訟
 sue sb for sth
 
-petroleum (n) = crude oil (n)
+petroleum (n) = petrol (n) = crude oil (n)
 gasoline = gas (n)
 
 petty (adj) = trivial (adj)
@@ -2714,12 +2743,15 @@ rack (n) 架子 e.g. luggage rack, server rack
 racket (n) 1 球拍 2 吵鬧 3 非法勾當
 
 rally (n) 大眾集會
+rally (v) 召集; 重新振作
 
 rampage (v) 橫衝直撞
 rampant (adj) 猖獗的; getting worse quickly and uncontrollable
 infest (v) = overrun (v) 猖獗
 
 ransom 贖金
+
+ration (n) 配給量
 
 reap (v) 收割
 
@@ -2768,10 +2800,14 @@ remnant (n) remain, residue
 
 rendezvous (n)(v) meet or place to meet
 
+rent a car = hire a car
+
 repent (v) stronger regret and want to fix
 
 replenish = refill
 offer supplementary/additional information on/about
+
+representative (n) 代理人 = agent
 
 resemble (v) = be similar to (v) = be like (v) resemble 不可再加 to
 
@@ -2802,11 +2838,20 @@ strap (v) 用帶子綁緊
 
 ridge (n) 山脊; 屋脊
 
+特殊材料
+	rigid foam
+	sleeper
+
+ring (v) = call (v)
+
 rig (v) manipulate; set up (tent / sail 帆)
 
 rim (n) = edge
 teetering on the brink of war/collapse/disaster/...
 = on the verge of ...
+
+rinse (v) = gargle (v)
+mouthwash (n)
 
 rip (v) = slit (v) = tear (v) 
 
@@ -3065,7 +3110,7 @@ tailor (n) 裁縫師
 trail (n) 小徑
 trailor (n) 預告片
 
-tariff (n) 關稅
+tariff (n) = duty (n) 關稅
 
 taxation (n) tax system
 
@@ -3280,6 +3325,16 @@ Anytime = I’m happy to do it = my pleasure = no problem
 There's no such thing as a free lunch
 There are plenty of good amenities
 They're tossed aside 他們被丟到一邊
+
+in the meantime  (adv) 同時
+In time, ... will  (adv) 過一段時間後
+in time (adv) 即時地
+
+It seems adj
+It seems as if + 句子
+
+have never been cheap  不曾便宜
+have never been cheaper  不曾如此便宜
 
 ******
 
